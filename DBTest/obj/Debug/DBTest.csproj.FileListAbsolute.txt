@@ -1,0 +1,16 @@
+C:\Users\htao0\Source\Repos\PROYECTOISW\Solution1\DBTest\bin\Debug\DBTest.exe.config
+C:\Users\htao0\Source\Repos\PROYECTOISW\Solution1\DBTest\bin\Debug\DBTest.exe
+C:\Users\htao0\Source\Repos\PROYECTOISW\Solution1\DBTest\bin\Debug\DBTest.pdb
+C:\Users\htao0\Source\Repos\PROYECTOISW\Solution1\DBTest\bin\Debug\EntityFramework.dll
+C:\Users\htao0\Source\Repos\PROYECTOISW\Solution1\DBTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\htao0\Source\Repos\PROYECTOISW\Solution1\DBTest\bin\Debug\MagazineLib.dll
+C:\Users\htao0\Source\Repos\PROYECTOISW\Solution1\DBTest\bin\Debug\MagazineLib.pdb
+C:\Users\htao0\Source\Repos\PROYECTOISW\Solution1\DBTest\bin\Debug\MagazineLib.dll.config
+C:\Users\htao0\Source\Repos\PROYECTOISW\Solution1\DBTest\bin\Debug\EntityFramework.xml
+C:\Users\htao0\Source\Repos\PROYECTOISW\Solution1\DBTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\htao0\Source\Repos\PROYECTOISW\Solution1\DBTest\obj\Debug\DBTest.csproj.AssemblyReference.cache
+C:\Users\htao0\Source\Repos\PROYECTOISW\Solution1\DBTest\obj\Debug\DBTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\htao0\Source\Repos\PROYECTOISW\Solution1\DBTest\obj\Debug\DBTest.csproj.CoreCompileInputs.cache
+C:\Users\htao0\Source\Repos\PROYECTOISW\Solution1\DBTest\obj\Debug\DBTest.csproj.CopyComplete
+C:\Users\htao0\Source\Repos\PROYECTOISW\Solution1\DBTest\obj\Debug\DBTest.exe
+C:\Users\htao0\Source\Repos\PROYECTOISW\Solution1\DBTest\obj\Debug\DBTest.pdb

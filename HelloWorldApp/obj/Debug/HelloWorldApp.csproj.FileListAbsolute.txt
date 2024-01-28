@@ -1,0 +1,8 @@
+C:\Users\htao0\Source\Repos\PROYECTOISW\Solution1\HelloWorldApp\bin\Debug\HelloWorldApp.exe.config
+C:\Users\htao0\Source\Repos\PROYECTOISW\Solution1\HelloWorldApp\bin\Debug\HelloWorldApp.exe
+C:\Users\htao0\Source\Repos\PROYECTOISW\Solution1\HelloWorldApp\bin\Debug\HelloWorldApp.pdb
+C:\Users\htao0\Source\Repos\PROYECTOISW\Solution1\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.AssemblyReference.cache
+C:\Users\htao0\Source\Repos\PROYECTOISW\Solution1\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\htao0\Source\Repos\PROYECTOISW\Solution1\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\htao0\Source\Repos\PROYECTOISW\Solution1\HelloWorldApp\obj\Debug\HelloWorldApp.exe
+C:\Users\htao0\Source\Repos\PROYECTOISW\Solution1\HelloWorldApp\obj\Debug\HelloWorldApp.pdb

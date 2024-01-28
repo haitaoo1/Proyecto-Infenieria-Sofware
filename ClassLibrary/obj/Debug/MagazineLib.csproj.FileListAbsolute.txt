@@ -1,0 +1,12 @@
+C:\Users\htao0\Source\Repos\PROYECTOISW\Solution1\ClassLibrary\bin\Debug\MagazineLib.dll.config
+C:\Users\htao0\Source\Repos\PROYECTOISW\Solution1\ClassLibrary\bin\Debug\MagazineLib.dll
+C:\Users\htao0\Source\Repos\PROYECTOISW\Solution1\ClassLibrary\bin\Debug\MagazineLib.pdb
+C:\Users\htao0\Source\Repos\PROYECTOISW\Solution1\ClassLibrary\bin\Debug\EntityFramework.dll
+C:\Users\htao0\Source\Repos\PROYECTOISW\Solution1\ClassLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\htao0\Source\Repos\PROYECTOISW\Solution1\ClassLibrary\bin\Debug\EntityFramework.xml
+C:\Users\htao0\Source\Repos\PROYECTOISW\Solution1\ClassLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\htao0\Source\Repos\PROYECTOISW\Solution1\ClassLibrary\obj\Debug\MagazineLib.csproj.AssemblyReference.cache
+C:\Users\htao0\Source\Repos\PROYECTOISW\Solution1\ClassLibrary\obj\Debug\MagazineLib.csproj.CoreCompileInputs.cache
+C:\Users\htao0\Source\Repos\PROYECTOISW\Solution1\ClassLibrary\obj\Debug\MagazineLib.csproj.CopyComplete
+C:\Users\htao0\Source\Repos\PROYECTOISW\Solution1\ClassLibrary\obj\Debug\MagazineLib.dll
+C:\Users\htao0\Source\Repos\PROYECTOISW\Solution1\ClassLibrary\obj\Debug\MagazineLib.pdb
